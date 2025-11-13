@@ -3,13 +3,13 @@ const participantes = ["Maria", "João", "Ana", "Carlos", "Fernanda", "Lucas", "
 
 // Lista de produtos correspondentes
 const produtos = [
-  "produto1.webp",
-  "produto2.jpeg",
-  "produto3.jpg",
-  "produto4.webp",
-  "produto5.webp",
-  "produto6.webp",
-  "produto7.webp"
+  "produto1.jpg",
+  "produto2.jpg",
+  "produto3.jpeg",
+  "produto4.jpg",
+  "produto5.jpg",
+  "produto6.jpg",
+  "produto7.jpg"
 ];
 
 let contador = 0;
